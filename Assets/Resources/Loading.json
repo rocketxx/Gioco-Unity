@@ -1,0 +1,17 @@
+{
+	"jsonList": [
+	{
+		"id":0,
+		"description": "Sono una descrizione",
+		"lista": ["Elemento 1","Elemento 2"]
+		
+	},
+	{
+		"id":1,
+		"description": "Seconda descrizione",
+		"lista": ["Elemento 1","Elemento 2", "Elemento 3"]
+	}
+	
+	]
+
+}
